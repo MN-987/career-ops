@@ -3,7 +3,7 @@
 # This is the single source of truth for your personal data across all modes.
 
 candidate:
-  full_name: "Jane Smith"
+  full_name: "Mostafa Nasser"
   email: "jane@example.com"
   phone: "+1-555-0123"
   location: "San Francisco, CA"
@@ -19,8 +19,13 @@ candidate:
 target_roles:
   # Your North Star roles — what you're optimizing for
   primary:
-    - "Senior AI Engineer"
-    - "Staff ML Engineer"
+    - "Senior Backend Engineer"
+    - "Staff Platform Engineer"
+    - "Senior Full Stack Engineer"
+    - "Senior Software Engineer"
+    - "MERN Stack Engineer"
+    - "Node.js developer"
+     
   # Archetypes help the evaluation system score fit
   archetypes:
     - name: "AI/ML Engineer"
